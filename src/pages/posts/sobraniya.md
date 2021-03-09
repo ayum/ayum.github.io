@@ -24,6 +24,17 @@ seo:
     - name: 'twitter:description'
       value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
 template: post
+excerpt: >-
+  Видится, что вес начал права в праве, как целостной стороне общественной жизни
+  (праве, положительном праве, правосознании, правопонимании, правотворчестве,
+  науки и учения о праве, правоприменении и т.д.), необходим значительно
+  больший, чем есть сейчас. Ниже будут определены два начала права, которые в
+  совокупности могут быть достаточны для сотворения всего множества отраслевых
+  правовых предписаний. Речь идёт, в первую очередь, об общеобязательных
+  отраслевых предписаниях-правилах, предписаниях-требованиях, так как, конечно,
+  многообразие различных видов предписаний права (не говоря о неписанных, но
+  значимых в правовом смысле велений различной природы) неохватно, чтобы
+  исчерпывающе о них рассуждать.
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam, elementum consectetur elit non, tempus varius leo. In ut bibendum mauris. Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis. Aliquam facilisis neque eget ligula aliquam consequat.
