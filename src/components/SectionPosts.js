@@ -1,6 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 import moment from 'moment-strftime';
+import 'moment/locale/ru';
 
 import {getPages, Link, withPrefix} from '../utils';
 
