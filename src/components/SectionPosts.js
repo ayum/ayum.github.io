@@ -15,7 +15,7 @@ export default class SectionPosts extends React.Component {
                     {_.get(post, 'frontmatter.thumb_img_path', null) && (<img className="thumbnail" src={withPrefix(_.get(post, 'frontmatter.thumb_img_path', null))} alt={_.get(post, 'frontmatter.thumb_img_alt', null)}/>)}
                     <div className="copy">
                         <h2>{_.get(post, 'frontmatter.title', null)}</h2>
-                        <h3 className="publish-date">Published on {moment(_.get(post, 'frontmatter.date', null)).strftime('%B %d %Y')}</h3>
+                        <h3 className="publish-date">Published on {moment(_.get(post, 'frontmatter.date', null)).strftime('%d %B %d %Y')}</h3>
                         {_.get(post, 'frontmatter.excerpt', null) && (
                         <p className="summary">{_.get(post, 'frontmatter.excerpt', null)}</p>
                         )}
