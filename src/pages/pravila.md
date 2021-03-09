@@ -14,12 +14,6 @@ seo:
     - name: 'og:description'
       value: This is a generic page
       keyName: property
-    - name: 'twitter:card'
-      value: summary
-    - name: 'twitter:title'
-      value: Just a Generic Page
-    - name: 'twitter:description'
-      value: This is a generic page
 template: page
 ---
 
