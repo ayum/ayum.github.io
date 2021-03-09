@@ -61,7 +61,7 @@ sections:
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
 seo:
   title: Записки о праве
-  description: The preview of the Vanilla theme
+  description: Авторские записки о праве в формате статей для их публичног
   extra:
     - name: 'og:type'
       value: website
