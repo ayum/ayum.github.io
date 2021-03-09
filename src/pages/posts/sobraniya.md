@@ -16,12 +16,6 @@ seo:
     - name: 'og:description'
       value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
       keyName: property
-    - name: 'twitter:card'
-      value: summary
-    - name: 'twitter:title'
-      value: Magna etiam sed lorem ipsum dolor amet
-    - name: 'twitter:description'
-      value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
 template: post
 excerpt: >-
   Идея за этой заметкой в том, что вес начал права в российском положительном
