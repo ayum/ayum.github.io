@@ -62,14 +62,5 @@ seo:
       value: images/vanilla-preview.png
       keyName: property
       relativeUrl: true
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: Stackbit Vanilla Theme
-    - name: 'twitter:description'
-      value: The preview of the Vanilla theme
-    - name: 'twitter:image'
-      value: images/vanilla-preview.png
-      relativeUrl: true
 template: advanced
 ---
