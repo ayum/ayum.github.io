@@ -61,7 +61,7 @@ sections:
       euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
 seo:
   title: Записки о праве
-  description: Авторские записки о праве в формате статей для их публичног
+  description: Авторские записки о праве в формате статей для их публичного рецензирования
   extra:
     - name: 'og:type'
       value: website
