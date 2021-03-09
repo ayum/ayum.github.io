@@ -11,7 +11,10 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Magna etiam sed lorem ipsum dolor amet
+      value: 
+Обоснованность и свойственность права на примере норм о решениях собраний
+
+
       keyName: property
     - name: 'og:description'
       value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
