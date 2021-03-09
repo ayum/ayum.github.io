@@ -38,7 +38,6 @@ sections:
   - title: A Cat
     section_id: cat
     type: section_content
-    image_alt: Geometric pattern
     content: >
       Заметки можно скачать в формате \`pdf\`, а также простым тестовым файлом.
       Этот же текстовый файл также включён как приложение внутрь самого \`pdf\`
