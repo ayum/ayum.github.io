@@ -6,6 +6,8 @@ import {graphql} from 'gatsby';
 import {Layout} from '../components/index';
 import {withPrefix, htmlToReact} from '../utils';
 
+moment.locale('ru')
+
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
 // any changes to content files are reflected in browser
 export const query = graphql`
