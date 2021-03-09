@@ -1,7 +1,7 @@
 import React from 'react';
 import _ from 'lodash';
 import moment from 'moment-strftime';
-import 'moment/locale/es';
+import 'moment/locale/ru';
 import {graphql} from 'gatsby';
 
 import {Layout} from '../components/index';
