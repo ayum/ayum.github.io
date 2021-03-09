@@ -1,5 +1,5 @@
 ---
-title: Magna etia
+title: Обоснованность и свойственность права на примере норм о решениях собраний
 subtitle: A cautionary tale about Magna etiam
 excerpt: >-
   Phasellus in ante vitae nibh porttitor tempus vitae ut ante. Vestibulum
