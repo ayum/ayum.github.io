@@ -35,6 +35,25 @@ sections:
     type: section_posts
     has_more_link: true
     more_link_text: Перейти на страницу
+  - title: A Cat
+    section_id: cat
+    type: section_content
+    image: images/art.svg
+    image_alt: Geometric pattern
+      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
+      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
+      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
+      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
+      euismod nunc adipiscing lacinia erat ut sit. Arcu amet. 
+
+      Id massa aliquet arcu accumsan lorem amet accumsan.
+
+
+      Interdum ante aliquet commodo accumsan vis phasellus adipiscing. Ornare a
+      in lacinia. Vestibulum accumsan ac metus massa tempor. Accumsan in lacinia
+      ornare massa amet. Ac interdum ac non praesent. Cubilia lacinia interdum
+      massa faucibus blandit nullam. Accumsan phasellus nunc integer. Accumsan
+      euismod nunc adipiscing lacinia erat ut sit. Arcu amet.
 seo:
   title: Записки о праве
   description: Авторские записки о праве в формате статей для их публичного рецензирования
