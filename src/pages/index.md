@@ -35,7 +35,7 @@ sections:
     type: section_posts
     has_more_link: true
     more_link_text: Перейти на страницу
-  - title: A Cat
+  - title: Примечание к запискам
     section_id: cat
     type: section_content
     content: >
