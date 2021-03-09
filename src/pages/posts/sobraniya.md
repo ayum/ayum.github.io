@@ -2,7 +2,6 @@
 title: Обоснованность и свойственность права на примере норм о решениях собраний
 subtitle: A cautionary tale about Magna etiam
 date: '2021-03-01'
-thumb_img_path: images/art.svg
 thumb_img_alt: Geometric pattern
 seo:
   title: Magna etiam sed lorem ipsum dolor amet
