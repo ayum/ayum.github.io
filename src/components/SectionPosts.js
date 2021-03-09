@@ -5,6 +5,8 @@ import 'moment/locale/ru';
 
 import {getPages, Link, withPrefix} from '../utils';
 
+moment.locale('ru');
+
 export default class SectionPosts extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
