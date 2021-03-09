@@ -30,7 +30,7 @@ sections:
       Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
       Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
       porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
-  - title: Перейти на страницу
+  - title: Recent Posts
     section_id: posts
     type: section_posts
     has_more_link: true
