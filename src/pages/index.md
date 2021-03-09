@@ -38,7 +38,6 @@ sections:
   - title: A Cat
     section_id: cat
     type: section_content
-    image: images/art.svg
     image_alt: Geometric pattern
     content: >-
       Hi this is my text and image block. Vis accumsan feugiat adipiscing nisl
