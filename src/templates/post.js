@@ -1,10 +1,13 @@
 import React from 'react';
 import _ from 'lodash';
 import moment from 'moment-strftime';
+import 'moment/locale/es';
 import {graphql} from 'gatsby';
 
 import {Layout} from '../components/index';
 import {withPrefix, htmlToReact} from '../utils';
+
+moment.locale()
 
 // this minimal GraphQL query ensures that when 'gatsby develop' is running,
 // any changes to content files are reflected in browser
