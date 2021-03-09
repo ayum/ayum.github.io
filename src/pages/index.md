@@ -70,7 +70,9 @@ seo:
       value: Записки о праве
       keyName: property
     - name: 'og:description'
-      value: The preview of the Vanilla theme
+      value: >-
+        Авторские записки о праве в формате статей для их публичного
+        рецензирования
       keyName: property
     - name: 'og:image'
       value: images/vanilla-preview.png
