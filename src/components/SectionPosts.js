@@ -18,7 +18,7 @@ export default class SectionPosts extends React.Component {
             <section id={_.get(section, 'section_id', null)} className="posts">
                 {_.map(_.orderBy(display_posts, 'frontmatter.date', 'desc'), (post, post_idx) => (
                 <Link key={post_idx} to={withPrefix(_.get(post, 'url', null))} className="article-teaser">
-                    {_.get(post, 'frontmatter.thumb_img_href', null) ? <object type="application/pdf"><a href={_.get(post, 'frontmatter.thumb_img_href', null)}>{post_thumb(post)}</a></object> : { post_thumb(post) }}
+                    {_.get(post, 'frontmatter.thumb_img_href', null) ? <object type="application/pdf"><a href={_.get(post, 'frontmatter.thumb_img_href', null)}>{post_thumb(post)}</a></object> : { post_thumb(post) }
                     <div className="copy">
                         <h2>{_.get(post, 'frontmatter.title', null)}</h2>
                         <h3 className="publish-date">Опубликовано {moment(_.get(post, 'frontmatter.date', null)).strftime('%d %B %Y')}</h3>
