@@ -40,6 +40,7 @@ excerpt: >-
 <div>
 <img src="/images/sobraniya-first-page.png" alt="![Предпросмотр первой страницы"/>
 <a href="/bumf/sobraniya.pdf">
+
 [Скачать в формате `pdf`](/bumf/sobraniya.pdf)
 
 [Скачать в формате `txt`](/bumf/sobraniya.txt)
