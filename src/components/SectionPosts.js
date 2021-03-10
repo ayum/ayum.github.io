@@ -31,6 +31,7 @@ export default class SectionPosts extends React.Component {
                         )}
                     </div>
                 </Link>
+                </div>
                 ))}
             </section>
         );
