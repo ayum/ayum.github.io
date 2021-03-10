@@ -20,7 +20,7 @@ export default class SectionPosts extends React.Component {
                 <div className="article-teaser">
                     {_.get(post, 'frontmatter.thumb_img_href', null) ? <a href={_.get(post, 'frontmatter.thumb_img_href', null)}>{post_thumb(post)}</a> : {} }
                 <Link key={post_idx} to={withPrefix(_.get(post, 'url', null))}>
-                    {_.get(post, 'frontmatter.thumb_img_href', null) ? <a href={_.get(post, 'frontmatter.thumb_img_href', null)}>{post_thumb(post)}</a> : post_thumb(post)}
+                    {_.get(post, 'frontmatter.thumb_img_href', null) ? {}: post_thumb(post)}
                     <div className="copy">
                         <h2>{_.get(post, 'frontmatter.title', null)}</h2>
                         <h3 className="publish-date">Опубликовано {moment(_.get(post, 'frontmatter.date', null)).strftime('%d %B %Y')}</h3>
