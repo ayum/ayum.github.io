@@ -11,7 +11,6 @@ export default class SectionPosts extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
         let display_posts = getPages(this.props.pageContext.pages, '/posts');
-        const thumbnail = (_.get(post, 'frontmatter.thumb_img_path', null) && (<img className="thumbnail" src={withPrefix(_.get(post, 'frontmatter.thumb_img_path', null))} alt={_.get(post, 'frontmatter.thumb_img_alt', null)} />));
         return (
             <section id={_.get(section, 'section_id', null)} className="posts">
                 {_.map(_.orderBy(display_posts, 'frontmatter.date', 'desc'), (post, post_idx) => (
