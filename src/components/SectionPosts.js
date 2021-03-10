@@ -18,7 +18,6 @@ export default class SectionPosts extends React.Component {
                     if (_.get(post, 'frontmatter.thumb_img_path', null)) {
                         
                     }
-                    {<img className="thumbnail" src={withPrefix(_.get(post, 'frontmatter.thumb_img_path', null))} alt={_.get(post, 'frontmatter.thumb_img_alt', null)} />}
                     <div className="copy">
                         <h2>{_.get(post, 'frontmatter.title', null)}</h2>
                         <h3 className="publish-date">Опубликовано {moment(_.get(post, 'frontmatter.date', null)).strftime('%d %B %Y')}</h3>
