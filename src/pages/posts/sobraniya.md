@@ -39,9 +39,9 @@ excerpt: >-
 
 ![Предпросмотр первой страницы](/images/sobraniya-first-page.png)
 
-[Скачать в формате `pdf`](bumf/sobraniya.pdf)
+[Скачать в формате `pdf`](/bumf/sobraniya.pdf)
 
-[Скачать в формате `txt`](bumf/sobraniya.txt)
+[Скачать в формате `txt`]/(bumf/sobraniya.txt)
 
 ### Аннотация
 
