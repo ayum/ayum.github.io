@@ -18,7 +18,7 @@ export default class SectionPosts extends React.Component {
                     if (_.get(post, 'frontmatter.thumb_img_path', null)) {
                         
                     }
-                    {<img className="thumbnail" src={withPrefix(_.get(post, 'frontmatter.thumb_img_path', null))} alt={_.get(post, 'frontmatter.thumb_img_alt', null)} />)}
+                    {<img className="thumbnail" src={withPrefix(_.get(post, 'frontmatter.thumb_img_path', null))} alt={_.get(post, 'frontmatter.thumb_img_alt', null)} />}
                     {thumbnail}
                     <div className="copy">
                         <h2>{_.get(post, 'frontmatter.title', null)}</h2>
