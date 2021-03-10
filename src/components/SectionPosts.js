@@ -17,7 +17,7 @@ export default class SectionPosts extends React.Component {
                 <Link key={post_idx} to={withPrefix(_.get(post, 'url', null))} className="article-teaser">
                     let thumbnail;
                     if (_.get(post, 'frontmatter.thumb_img_path', null))
-                     let thumbnail = () => (<img className="thumbnail" src={withPrefix(_.get(post, 'frontmatter.thumb_img_path', null))} alt={_.get(post, 'frontmatter.thumb_img_alt', null)} />);
+                     thumbnail = () => (<img className="thumbnail" src={withPrefix(_.get(post, 'frontmatter.thumb_img_path', null))} alt={_.get(post, 'frontmatter.thumb_img_alt', null)} />);
                     {thumbnail}
                     <div className="copy">
                         <h2>{_.get(post, 'frontmatter.title', null)}</h2>
