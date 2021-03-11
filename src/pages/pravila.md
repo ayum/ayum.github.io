@@ -9,7 +9,7 @@ seo:
       value: website
       keyName: property
     - name: 'og:title'
-      value: Just a Generic Page
+      value: Правила раскрытия сведений
       keyName: property
     - name: 'og:description'
       value: This is a generic page
