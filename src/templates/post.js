@@ -37,7 +37,7 @@ export default class Post extends React.Component {
                     </div>
                 </header>
                 <div className="content">
-                    
+                    <p></p>
                     {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                 </div>
             </section>
