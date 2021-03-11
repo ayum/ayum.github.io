@@ -38,6 +38,11 @@ export default class Post extends React.Component {
                 </header>
                 <div className="content">
                     <p>{_.get(this.props, 'pageContext.frontmatter.excerpt', null)}</p>
+                    <div class="article-teaser">
+<img class="thumbnail" src="/images/sobraniya-first-page.png" alt="Предпросмотр первой страницы"/>
+<p><a href="/bumf/sobraniya.pdf">Скачать в формате <code>pdf</code></a></p>
+<p><a href="/bumf/sobraniya.txt">Скачать в формате <code>txt</code></a></p>
+</div>
                     {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                 </div>
             </section>
