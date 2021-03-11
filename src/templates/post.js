@@ -41,7 +41,7 @@ export default class Post extends React.Component {
                     <div className="article-teaser">
 <img class="thumbnail" src={_.get(this.props, 'pageContext.frontmatter.thumb_img_path', null)} alt={_.get(this.props, 'pageContext.frontmatter.thumb_img_alt', null)}/>
 <p><a href={_.get(this.props, 'pageContext.frontmatter.article_pdf_path', null)}>Скачать в формате <code>pdf</code></a></p>
-<p><a href={_.get(this.props, 'pageContext.frontmatter.article_pdf_path', null)}>Скачать в формате <code>txt</code></a></p>
+<p><a href={_.get(this.props, 'pageContext.frontmatter.article_txt_path', null)}>Скачать в формате <code>txt</code></a></p>
 </div>
                     {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                 </div>
