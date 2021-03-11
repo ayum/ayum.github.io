@@ -1,5 +1,5 @@
 ---
-title: Just a Generic Page
+title: Правила раскрытия сведений
 subtitle: Just a generic subtitle for the page
 seo:
   title: Just a Generic Page
