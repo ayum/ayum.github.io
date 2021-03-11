@@ -12,7 +12,7 @@ seo:
       value: Правила раскрытия сведений
       keyName: property
     - name: 'og:description'
-      value: This is a generic page
+      value: Любые сведения от третьих лиц размещаются в согласии с настоящими правилами
       keyName: property
 template: page
 ---
