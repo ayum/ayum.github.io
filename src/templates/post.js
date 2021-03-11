@@ -37,7 +37,8 @@ export default class Post extends React.Component {
                     </div>
                 </header>
                 <div className="content">
-                    <p></p>
+                    <p>{_.get(this.props, 'pageContext.frontmatter.subtitle', null) && (
+                        <h3>{htmlToReact(_.get(this.props, 'pageContext.frontmatter.subtitle', null))}</h3></p>
                     {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                 </div>
             </section>
