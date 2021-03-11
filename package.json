@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "stackbit-vanilla-theme",
   "description": "Stackbit Vanilla Theme",
   "version": "0.0.1",
