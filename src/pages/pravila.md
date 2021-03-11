@@ -1,6 +1,6 @@
 ---
 title: Правила раскрытия сведений
-subtitle: Just a generic subtitle for the page
+subtitle: Любые сведения от третьих лиц размещаются в согласии с настоящими правилами
 seo:
   title: Just a Generic Page
   description: This is a generic page
