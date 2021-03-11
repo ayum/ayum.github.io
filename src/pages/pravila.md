@@ -2,7 +2,7 @@
 title: Правила раскрытия сведений
 subtitle: Любые сведения от третьих лиц размещаются в согласии с настоящими правилами
 seo:
-  title: Just a Generic Page
+  title: Правила раскрытия сведений
   description: This is a generic page
   extra:
     - name: 'og:type'
