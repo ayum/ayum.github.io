@@ -36,7 +36,6 @@ excerpt: >-
   действующей силой права.
 ---
 
-
 <div class="article-teaser">
 <img class="thumbnail" src="/images/sobraniya-first-page.png" alt="Предпросмотр первой страницы"/>
 <p><a href="/bumf/sobraniya.pdf">Скачать в формате <code>pdf</code></a></p>
