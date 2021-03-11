@@ -5,6 +5,7 @@ date: '2021-03-01'
 thumb_img_path: /images/sobraniya-first-page.png
 thumb_img_alt: Изображение первой станицы
 article_pdf_path: /bumf/sobraniya.pdf
+article_pdf_path: /bumf/sobraniya.txt
 seo:
   title: Обоснованность и свойственность права на примере норм о решениях собраний
   description: >-
