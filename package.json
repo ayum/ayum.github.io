@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "ayum-personal-bumf-page",
-  "description": "Personal web page Stackbit Vanilla Theme",
+  "description": "Personal web page based on Stackbit Vanilla Theme",
   "version": "0.0.1",
   "license": "MIT",
   "scripts": {
