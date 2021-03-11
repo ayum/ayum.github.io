@@ -19,7 +19,7 @@ export default class SectionPosts extends React.Component {
                 {_.map(_.orderBy(display_posts, 'frontmatter.date', 'desc'), (post, post_idx) => (
                 <div className="article-teaser">
                     {_.get(post, 'frontmatter.article_pdf_path', null) ? <a href={_.get(post, 'frontmatter.article_pdf_path', null)} className="logo">{post_thumb(post)}</a> : true }
-                <Link key={post_idx} to={withPrefix(_.get(post, 'url', null))}>
+                <Link key={post_idx} to={withPrefix(_.get(post, 'url', null))} className="logo">
                     {_.get(post, 'frontmatter.article_pdf_path', null) ? true : post_thumb(post)}
                     <div className="copy">
                         <h2>{_.get(post, 'frontmatter.title', null)}</h2>
