@@ -4,7 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Архив препринтов
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: |
+      ### Препринты в формате статьи для публичного рецензирования
     image: images/ayum.svg
     image_alt: Author avatar
   - title: Text
