@@ -18,8 +18,8 @@
     }
 
     img {
-        width: 88px;
-        min-width: 100%;
+        max-width: 20rem;
+        align-self: flex-start;
         margin: 0 1.5rem 0 0;
 
         @media screen and (max-width: $tablet) {
