@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    title: This is a hero headline.
+    title: Архив препринтов
     subtitle: '### This is a super-cool hero subhead.'
     image: images/ayum.svg
     image_alt: Author avatar
