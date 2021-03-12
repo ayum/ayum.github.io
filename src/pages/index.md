@@ -11,26 +11,38 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam,
-      elementum consectetur elit non, tempus varius leo. In ut bibendum mauris.
-      Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed
-      condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis.
-      Aliquam facilisis neque eget ligula aliquam consequat.
+    content: >
+      Эту страницу можно рассматривать как архив препринтов в формате статей на
+      темы права и близкие к ней. Могут быть размещены и исследования и
+      свободные размышления и бумаги, не имеющие какого-либо исследовательского
+      или значения. Правда, на настоящее время размещена только одна
+      исследовательская заметка и будет ли размещено еще что-нибудь не известно.
 
-      ### This is an H3. Use it for subheads and subsections.
 
-      Donec malesuada, augue eu blandit porta, metus metus auctor leo, non
-      dapibus felis odio non tortor. Mauris sem orci, tristique eget [this is an
-      inline link](#) placerat non, eleifend tempor dolor. Quisque sed nisl
-      elit. Praesent pulvinar id urna quis cursus. In hac habitasse platea
-      dictumst. Mauris sed odio magna. Duis felis turpis, posuere at erat nec,
-      condimentum luctus nibh. Nam leo ante, tempor ut tellus vel, lacinia
-      aliquam velit. Mauris ut purus in nisl suscipit feugiat.
+      Размещенная заметка моего авторства, — я никак не связан с учёным
+      сообществом, не имею званий, степеней или иных чинов — право для меня
+      любопытный предмет размышлений, что, впрочем, не означает, что эти
+      размышления эти, если они представляют исследовательскую ценность, никогда
+      не будут надлежаще опубликованы.
 
-      Pellentesque tempor aliquet dolor, ac consectetur lorem ornare id.
-      Vestibulum sit amet facilisis elit, sit amet rhoncus felis. Nunc rhoncus
-      porttitor sollicitudin. Quisque eu leo metus. Curabitur gravida nibh eu
+
+      Эта страничка создана для поиска прямых отзывов на размещенные на ней
+      работы вне обычного для научных кругов процесса рецензирования при
+      публикации.
+
+
+      Отзывы принимаются от всех кто готов взять на себя труд прочитать работы и
+      дать критику в ответ. Наличие степеней или участие в  академическом
+      сообществе не требуется. Отзывы, вообще говоря, предназначены для
+      обнародования тут же на странице отдельной работы, но если есть
+      потребность не раскрывать какие-либо сведения, то такие пожелания будут в
+      точности учтены. Побдробнее на соседней странице: [/pravila](/pravila).
+
+
+      Отзывы принимаются в любом виде: в виде письма, сообщения, статьи, запроса
+      на слияние в репозитории или в любом ином. Желательно, но не обязательно,
+      указать в отзыве на себя, свою аффилированность (если есть) и иные
+      сведения, которые помогут в прочтении отзыва.
   - title: Перечень записок
     section_id: posts
     type: section_posts
