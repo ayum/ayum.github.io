@@ -24,6 +24,9 @@
             }
         ]
     },
+    "feedback_form_url": "https://forms.yandex.ru/u/6050c844b80362241c1bf3b5/",
+    "feedback_mail_to": "pravo@ayum.ru",
+    "feedback_discussions_url": "https://github.com/ayum/ayum.github.io/discussions/",
     "title": "Записки о праве",
     "domain": "https://ayum.github.io"
 }

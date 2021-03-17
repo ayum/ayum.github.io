@@ -45,6 +45,8 @@ export default class Post extends React.Component {
 <p><a href={_.get(this.props, 'pageContext.frontmatter.article_txt_path', null)}>Скачать в формате <code>txt</code></a></p>
 </div>
 </div>
+                        <p>Оставьте отзыв: <a href={'mailto:' + _.get(this.props, 'pageContext.site.siteMetadata.feedback_mail_to', null) + '?subject=' + encodeURI(_.get(this.props, 'pageContext.frontmatter.title', null))}>письмом</a>, в <a href={_.get(this.props, 'pageContext.site.siteMetadata.feedback_discussions_url', null) + encodeURI(_.get(this.props, 'pageContext.frontmatter.github_discussions_id', null))}>обсуждении</a> или через <a href={_.get(this.props, 'pageContext.site.siteMetadata.feedback_form_url', null) + '?answer_short_text_6744842=' + encodeURI(_.get(this.props, 'pageContext.frontmatter.title', null))}>обратную связь</a>.
+                        </p>
                     {htmlToReact(_.get(this.props, 'pageContext.html', null))}
                 </div>
             </section>
