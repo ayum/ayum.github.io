@@ -2,7 +2,7 @@
 title: Обоснованность и свойственность права на примере норм о решениях собраний
 subtitle: Принципы гражданского законодательства и подходы к праву
 date: '2021-03-01'
-thumb_img_path: /images/sobraniya-first-page.png
+thumb_img_path: /bumf/sobraniya.png
 thumb_img_alt: Изображение первой станицы
 article_pdf_path: /bumf/sobraniya.pdf
 article_txt_path: /bumf/sobraniya.txt
